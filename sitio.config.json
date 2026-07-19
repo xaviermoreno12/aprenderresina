@@ -34,7 +34,7 @@
       "nombre": "MasterClass Pisos con Resina Epóxica",
       "precio": "Ver precio",
       "moneda": "USD",
-      "hotlink": "https://go.hotmart.com/K80060310S?ap=0e1e",
+      "hotlink": "https://go.hotmart.com/K80060310S?ap=bfdb",
       "categoria": "Resina",
       "tema": "Pisos epóxicos",
       "rating": 4.8,
@@ -51,7 +51,8 @@
         "gancho": "Descargá la lista exacta de materiales y ahorrate las compras al pedo",
         "pdf": ""
       },
-      "pagina_ventas": "https://go.hotmart.com/K80060310S"
+      "pagina_ventas": "https://go.hotmart.com/K80060310S?ap=0e1e",
+      "cta_comprar": "Quiero emprender ya 🎨"
     },
     {
       "id": "mesas-rio-resina",
@@ -59,7 +60,7 @@
       "nombre": "MasterClass Mesas Río de Resina",
       "precio": "Ver precio",
       "moneda": "USD",
-      "hotlink": "https://go.hotmart.com/U80060300R?ap=4503",
+      "hotlink": "https://go.hotmart.com/U80060300R?ap=9bab",
       "categoria": "Resina",
       "tema": "Mesas río",
       "rating": 4.7,
@@ -76,7 +77,8 @@
         "gancho": "La secuencia exacta para que tu primera mesa no se te arruine",
         "pdf": ""
       },
-      "pagina_ventas": "https://go.hotmart.com/U80060300R"
+      "pagina_ventas": "https://go.hotmart.com/U80060300R?ap=4503",
+      "cta_comprar": "Quiero emprender ya 🎨"
     },
     {
       "id": "mesas-geoda-resina",
@@ -84,7 +86,7 @@
       "nombre": "MasterClass Mesas Geoda de Resina",
       "precio": "Ver precio",
       "moneda": "USD",
-      "hotlink": "https://go.hotmart.com/V80060329A?ap=2054",
+      "hotlink": "https://go.hotmart.com/V80060329A?ap=113c",
       "categoria": "Resina",
       "tema": "Mesas geoda",
       "rating": 4.7,
@@ -101,7 +103,8 @@
         "gancho": "Las paletas exactas (ágata, amatista, malaquita y más) con sus pigmentos",
         "pdf": ""
       },
-      "pagina_ventas": "https://go.hotmart.com/V80060329A"
+      "pagina_ventas": "https://go.hotmart.com/V80060329A?ap=2054",
+      "cta_comprar": "Quiero emprender ya 🎨"
     }
   ]
 }
