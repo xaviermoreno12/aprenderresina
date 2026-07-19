@@ -1,0 +1,105 @@
+{
+  "sitio": {
+    "nombre": "Aprender Resina",
+    "tagline": "Aprendé a crear arte con resina epóxica, paso a paso",
+    "dominio": "https://aprenderresina.vercel.app",
+    "base": "/",
+    "nicho": "arte y manualidades con resina epóxica",
+    "idioma": "es",
+    "pais": "AR",
+    "descripcion": "Tutoriales claros de arte en resina epóxica: pisos epóxicos, mesas río y mesas geoda. Materiales, técnicas y trucos para principiantes, con ideas para llevar tu hobby al siguiente nivel.",
+    "autor": {
+      "nombre": "Tomás Ferreyra",
+      "rol": "Artesano de resina epóxica",
+      "bio": "Hace años que trabajo la resina epóxica: pisos, mesas río y piezas de geoda. Comparto lo que fui aprendiendo a los golpes para que vos te ahorres los errores caros y disfrutes el proceso."
+    },
+    "ga_id": "",
+    "gsc_verification": "",
+    "email": "hola@aprenderresina.com"
+  },
+  "marca": {
+    "color_primario": "#0d7a7a",
+    "color_secundario": "#0f172a",
+    "color_acento": "#d9a441",
+    "fondo": "#ffffff",
+    "fuente_titulos": "Bricolage Grotesque",
+    "fuente_texto": "Inter"
+  },
+  "productos": [
+    {
+      "id": "pisos-resina",
+      "codigo": "K80060310S",
+      "nombre": "MasterClass Pisos con Resina Epóxica",
+      "precio": "Ver precio",
+      "moneda": "USD",
+      "hotlink": "https://go.hotmart.com/K80060310S?ap=0e1e",
+      "categoria": "Resina",
+      "tema": "Pisos epóxicos",
+      "rating": 4.8,
+      "descripcion_corta": "MasterClass para aprender a hacer pisos con resina epóxica: técnicas de aplicación, diseños 3D y unicolor, uso de pigmentos y acabados profesionales paso a paso.",
+      "beneficios": [
+        "Dominás las técnicas de aplicación de resina para pisos, capa por capa",
+        "Aprendés diseños 3D, marmolados y unicolor con pigmentos",
+        "Salís con criterio para tomar tus primeros trabajos y no desperdiciar material"
+      ],
+      "para_quien": "Personas que quieren aprender el oficio de los pisos epóxicos, desde cero, ya sea para su casa o para armar un emprendimiento.",
+      "destacado": true,
+      "lead_magnet": {
+        "titulo": "Kit del principiante en resina: los 12 materiales que SÍ necesitás (y los que no) para tu primer proyecto",
+        "gancho": "Descargá la lista exacta de materiales y ahorrate las compras al pedo",
+        "pdf": ""
+      },
+      "pagina_ventas": "https://go.hotmart.com/K80060310S"
+    },
+    {
+      "id": "mesas-rio-resina",
+      "codigo": "U80060300R",
+      "nombre": "MasterClass Mesas Río de Resina",
+      "precio": "Ver precio",
+      "moneda": "USD",
+      "hotlink": "https://go.hotmart.com/U80060300R?ap=4503",
+      "categoria": "Resina",
+      "tema": "Mesas río",
+      "rating": 4.7,
+      "descripcion_corta": "MasterClass para transformar rodajas de madera en mesas río de resina: preparación de la madera, armado del molde, colado de la resina, lijado y acabado final.",
+      "beneficios": [
+        "Aprendés todo el proceso de una mesa río, del tronco al acabado espejo",
+        "Sabés cómo preparar la madera y evitar burbujas y grietas",
+        "Convertís un hobby relajante en piezas únicas que se venden bien"
+      ],
+      "para_quien": "Amantes de la madera y el arte que quieren hacer su primera mesa río de resina, como hobby o para vender.",
+      "destacado": false,
+      "lead_magnet": {
+        "titulo": "Tu primera mesa río en 7 pasos: guía imprimible del proceso completo",
+        "gancho": "La secuencia exacta para que tu primera mesa no se te arruine",
+        "pdf": ""
+      },
+      "pagina_ventas": "https://go.hotmart.com/U80060300R"
+    },
+    {
+      "id": "mesas-geoda-resina",
+      "codigo": "V80060329A",
+      "nombre": "MasterClass Mesas Geoda de Resina",
+      "precio": "Ver precio",
+      "moneda": "USD",
+      "hotlink": "https://go.hotmart.com/V80060329A?ap=2054",
+      "categoria": "Resina",
+      "tema": "Mesas geoda",
+      "rating": 4.7,
+      "descripcion_corta": "MasterClass para crear mesas geoda de resina estilo piedras preciosas (ágata, amatista, malaquita): empedrado, cordones, pigmentación y acabados de mobiliario de lujo.",
+      "beneficios": [
+        "Recreás geodas de ágata, amatista y malaquita con resina y pigmentos",
+        "Aprendés el empedrado, los cordones y los flameados que dan el efecto piedra",
+        "Entrás al mercado de mobiliario de lujo con piezas de alto valor"
+      ],
+      "para_quien": "Artistas y emprendedores que quieren hacer mesas geoda llamativas para decoración y mobiliario de alta gama.",
+      "destacado": false,
+      "lead_magnet": {
+        "titulo": "7 combinaciones de color para mesas geoda que parecen piedras reales",
+        "gancho": "Las paletas exactas (ágata, amatista, malaquita y más) con sus pigmentos",
+        "pdf": ""
+      },
+      "pagina_ventas": "https://go.hotmart.com/V80060329A"
+    }
+  ]
+}
