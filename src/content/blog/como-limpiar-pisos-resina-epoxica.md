@@ -83,6 +83,6 @@ Ahora, hablemos de los errores más comunes que cometemos al limpiar:
 6. **¿Hay productos que debo evitar?**  
    Evitá productos que contengan ácidos fuertes o disolventes, ya que pueden dañar la resina.
 
-Recuerda que mantener tus pisos de resina epóxica limpios y en buen estado no solo mejora la apariencia de tus espacios, sino que también prolonga su vida útil. Si querés aprender más sobre cómo aplicar resina epóxica y convertirte en un profesional, no te pierdas la MasterClass de Pisos con Resina Epóxica. Te enseñarán técnicas y tendencias para que puedas desarrollar tu creatividad al máximo y, por qué no, emprender en un mercado en crecimiento. ¡Animate a dar el paso y transformá tus espacios con resina epóxica!  
+Con práctica y paciencia vas a lograr piezas que te enorgullezcan. Esperamos que esta guía te sea útil: seguí explorando el blog para más proyectos en resina.
 
 Para más tips sobre resina, no te olvides de leer [cómo hacer piso epóxico paso a paso]( /blog/como-hacer-piso-epoxico-paso-a-paso/).

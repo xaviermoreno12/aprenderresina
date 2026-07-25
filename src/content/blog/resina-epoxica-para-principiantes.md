@@ -99,4 +99,4 @@ Es recomendable usarla en un área ventilada y usar guantes. Algunas resinas pue
 No es recomendable, ya que cada marca puede tener diferentes propiedades y tiempos de curado.
 
 ## Cierre
-Si te entusiasma el mundo de la resina epóxica y querés llevar tus habilidades al siguiente nivel, te invito a sumergirte en la **MasterClass de Pisos con Resina Epóxica**. Aprendé técnicas de aplicación, diseños 3D y unicolor, y uso de pigmentos para crear acabados únicos. Además, te prepararás para incursionar en un mercado en crecimiento con habilidades prácticas que te pondrán un paso adelante. ¡No te quedes afuera de esta oportunidad de desarrollar tu creatividad y convertirte en un profesional en el arte de la resina epóxica!
+Con práctica y paciencia vas a lograr piezas que te enorgullezcan. Esperamos que esta guía te sea útil: seguí explorando el blog para más proyectos en resina.

@@ -116,4 +116,4 @@ Sí, es importante usar guantes y máscara durante el proceso para evitar inhala
 
 ## Cierre
 
-Ahora que sabes cómo hacer una mesa río de resina, es momento de poner manos a la obra y darle vida a tus ideas. Si querés profundizar en este mundo y aprender más sobre cómo transformar rodajas de madera en mesas espectaculares, te recomiendo la **MasterClass Mesas Río de Resina**. Ahí aprenderás todo lo necesario para crear tu propia obra de arte, desde la preparación de la madera hasta el acabado final. ¡No dejes pasar esta oportunidad de convertir tu hobby en un negocio rentable o simplemente disfrutar del arte en casa!
+Con práctica y paciencia vas a lograr piezas que te enorgullezcan. Esperamos que esta guía te sea útil: seguí explorando el blog para más proyectos en resina.

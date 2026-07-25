@@ -79,6 +79,6 @@ Como en cualquier arte, la práctica es clave. La primera mesa puede ser un poco
 
 ## Cierre
 
-Ahora que conocés los pasos para hacer tu propia mesa geoda de resina, ¡es hora de poner manos a la obra! Si querés llevar tus habilidades al siguiente nivel y aprender más técnicas, te recomiendo la **MasterClass Mesas Geoda de Resina**. Ahí aprenderás a transformar madera en piezas únicas que se destacan en el mercado de muebles de lujo. ¿Listo para impresionar a todos con tus creaciones? ¡No te quedes atrás en esta tendencia del mobiliario de lujo!
+Con práctica y paciencia vas a lograr piezas que te enorgullezcan. Esperamos que esta guía te sea útil: seguí explorando el blog para más proyectos en resina.
 
 Y si querés más inspiración, no dudes en revisar [Cómo hacer una mesa río de resina: ¡creá tu obra maestra!](blog/como-hacer-mesa-rio-resina/) y [Cómo hacer piso epóxico paso a paso: ¡transformá tu espacio!](blog/como-hacer-piso-epoxico-paso-a-paso/).

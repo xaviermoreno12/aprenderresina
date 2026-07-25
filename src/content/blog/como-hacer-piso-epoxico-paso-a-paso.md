@@ -106,4 +106,4 @@ Sí, pero es importante usar guantes y una máscara para evitar inhalar los vapo
 
 Hacer un piso epóxico no solo es un proyecto emocionante, sino que también puede abrirte puertas a nuevas oportunidades. Si te apasiona el diseño de interiores o buscas emprender en un mercado en crecimiento, ¡no dudes en sumergirte en el mundo de la resina epóxica!
 
-Para profundizar en todas las técnicas y aprender a hacer pisos con resina epóxica de manera profesional, te recomiendo la **MasterClass Pisos con Resina Epóxica**. Aprenderás desde la aplicación hasta el uso de pigmentos y acabados únicos. ¡Dale rienda suelta a tu creatividad y empezá a transformar espacios hoy mismo!
+Con práctica y paciencia vas a lograr piezas que te enorgullezcan. Esperamos que esta guía te sea útil: seguí explorando el blog para más proyectos en resina.
